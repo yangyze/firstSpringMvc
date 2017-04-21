@@ -1,0 +1,4 @@
+com\yyz\config\WebConfig.class
+com\yyz\controller\HomeController.class
+com\yyz\controller\StudentController.class
+com\yyz\init\WebAppInit.class
